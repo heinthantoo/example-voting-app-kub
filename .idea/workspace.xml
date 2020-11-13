@@ -1,19 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd38bbe1-58e5-4dd7-bd34-e50c979b3f6a" name="Default Changelist" comment="" />
+    <list default="true" id="fd38bbe1-58e5-4dd7-bd34-e50c979b3f6a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result-app-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/result-app-service.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1kEtJX944vrB9g44o6CYOdUVQ4c" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -54,5 +63,19 @@
       <updated>1605277506669</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="522" y="376" key="Github.CreateGistDialog" timestamp="1605279746693">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="522" y="376" key="Github.CreateGistDialog/0.0.1440.900@0.0.1440.900" timestamp="1605279746693" />
+    <state x="534" y="354" key="Github.ShareDialog" timestamp="1605279986837">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="534" y="354" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1605279986837" />
+    <state x="472" y="162" key="Github.UntrackedFilesDialog" timestamp="1605280000253">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="472" y="162" key="Github.UntrackedFilesDialog/0.0.1440.900@0.0.1440.900" timestamp="1605280000253" />
   </component>
 </project>
